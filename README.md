@@ -26,7 +26,7 @@ Environment Configuration
 
 ```
 git clone https://github.com/seu-usuario/seu-repositorio.git
-
+```
 
 2. Abra um terminal na pasta raiz do projeto `newsletter-management`.
 
