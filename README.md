@@ -6,18 +6,31 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+Este projeto é uma aplicação web desenvolvida em Angular no frontend e .NET Core no backend, que permite o gerenciamento de cadastro de newsletter.
+
+## Features
+
+- Registration of new users to receive the newsletter.
 	
 ## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+
+- Node.js
+- Angular CLI
+- .NET Core SDK
 	
 ## Setup
-To run this project, install it locally using npm:
+Environment Configuration
+
+
+1. Clone este repositório em sua máquina local:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+
+2. Abra um terminal na pasta raiz do projeto `newsletter-management`.
+
+```
+3. Navegue para a pasta `newsletter-management-frontend` e execute o seguinte comando para instalar as dependências:
+
+
