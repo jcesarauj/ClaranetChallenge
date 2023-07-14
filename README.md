@@ -1,4 +1,4 @@
-```Claranet Challenge
+#Claranet Challenge
 
 # Newsletter Registration Management
 
