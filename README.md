@@ -73,7 +73,7 @@ If you wish to contribute to this project, please follow the steps below:
 2. Create a new branch with your feature:
 
    ```
-   git checkout -b minha-nova-funcionalidade
+   git checkout -b my-new-feature
    ```
 
 3. Make the necessary changes to the code.
