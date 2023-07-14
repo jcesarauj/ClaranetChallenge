@@ -1,6 +1,4 @@
-#Claranet Challenge
-
-# Newsletter Registration Management
+# Claranet Challenge Newsletter Registration Management
 
 ## Description
 
@@ -85,13 +83,13 @@ If you wish to contribute to this project, please follow the steps below:
 5. Commit your changes:
 
    ```
-   git commit -m 'Implementação da minha nova funcionalidade'
+   git commit -m 'Implementing my new feature'
    ```
 
 6. Make a push to the branch:
 
    ```
-   git push origin minha-nova-funcionalidade
+   git push origin my-new-feature
    ```
 
 7. Send a pull request to this repository.
